@@ -14,7 +14,7 @@ logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/landing_page.jpg"
+cover: "/assets/images/landing_page.png"
 
 name: 'Sascha Strand'
 author: 'Sascha Strand'
