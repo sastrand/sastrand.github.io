@@ -59,6 +59,7 @@ body
     background-repeat: no-repeat
     z-index: 99
 
+@media all and (min-width: 901px) {
 .teaserimage
   height: 450px
   position: relative
@@ -74,6 +75,25 @@ body
     bottom: 0
     z-index: 1
     text-indent: -9999px
+}
+
+@media all and (max-width: 900px) {
+.teaserimage
+  height: 250px
+  position: relative
+  overflow: hidden
+  background-color: #000
+  .teaserimage-image
+    background-size: cover
+    background-position: center
+    position: absolute
+    top: 0
+    left: 0
+    right: 0
+    bottom: 0
+    z-index: 1
+    text-indent: -9999px
+}
 
 .blog-header
   width: 100%
