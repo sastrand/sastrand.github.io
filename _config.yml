@@ -55,6 +55,10 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
+  - icon: linkedin
+    url:  https://linkedin.com/in/saschastrand
+    desc: Connect on LinkedIn
+
   - icon:	github
     url:	https://github.com/sastrand
     desc:	Fork me on github
