@@ -8,7 +8,7 @@ title: "Sascha Strand"
 description: > # this means to ignore newlines until "email:"
    Software Developer
 
-email: a-mail@mail.mail
+email: sascha.strand@gmail.com
 #blog logo
 logo: "/assets/images/landing_page_logo.png"
 float_logo: true # true, false (default)
@@ -56,7 +56,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon: linkedin
-    url:  https://linkedin.com/in/saschastrand
+    url:  https://www.linkedin.com/in/saschastrand
     desc: Connect on LinkedIn
 
   - icon:	github
