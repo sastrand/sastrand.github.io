@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+I'm Sascha Strand.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I am here to help organize, access, and transmit information. I am some combination of a librarian and plumber, and I love my work. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+After starting in the field as an ETL developer, I went back to school for my masters in computer science where I've studied concurrent and distributed systems.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I believe the greatest self growth I can make for myself comes from building cool things that have some use in the world. This is what I strive to do every day personally and professionally, and I am at my happiest when I can do this as part of a team.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I work to make the cultures I'm a part of as inclusive as possible, and I believe computer systems--as infrastructure for the transmission and storage of information--can contribute real good to the world.
