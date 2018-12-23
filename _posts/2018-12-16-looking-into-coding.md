@@ -7,9 +7,6 @@ tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 
-## Looking into coding: a guide to getting started
-<br>
-
 I wrote this for a friend who was wondering where to start learning about computer science.
 
 To anyone with this question, I have two different sets of recommendations based on the path you want to take into computer science.
