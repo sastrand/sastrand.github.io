@@ -2,7 +2,7 @@
 layout: post
 title:  "Looking into coding: a guide to getting started"
 date:   2018-12-16 12:00:00
-categories: problem
+categories: blog
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
