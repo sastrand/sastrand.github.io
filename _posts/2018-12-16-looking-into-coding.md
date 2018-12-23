@@ -9,7 +9,7 @@ image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 
 I wrote this for a friend who was wondering where to start learning about computer science.
 
-To anyone with this question, I have two different sets of recommendations based on the path you want to take into computer science.
+To anyone with the same question, I have different recommendations based on the path you want to take into computer science.
 
 ### 1. You want to learn how to write software of all sorts
 
