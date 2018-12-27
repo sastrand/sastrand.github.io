@@ -4,6 +4,22 @@ mediator
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
 [Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
 
+Using
+---
+
+Posts must start with header:
+
+    ---
+    layout: post
+    title:  "SEDA: An Architecture for Well-Conditioned, Scalable Internet Services"
+    date:   2018-12-26 12:00:00
+    categories: paper_response
+    tags: 
+    image: /assets/article_images/20181226_seda/pipes.jpg
+    ---
+
+And their file names must be delimited only by dashes.
+
 Features
 -------
 * Fully Responsive layout
