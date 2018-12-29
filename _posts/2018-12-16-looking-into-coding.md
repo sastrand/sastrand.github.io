@@ -13,7 +13,7 @@ Broadly I have different recommendations based on the path you want to take into
 
 ### 1. You want to learn how to write software of all sorts
 
-If you want to go deep, learning about what makes software of all kinds work, I'd recommend starting out the way computer science students start out at a lot of universities:
+<br>If you want to go deep, learning about what makes software of all kinds work, I'd recommend starting out the way computer science students start out at a lot of universities:
   * learn a multi-purpose language: read some books, work through a tutorial or two
   * then find some problems you want to solve and start applying your skills
 
@@ -32,7 +32,7 @@ And if you want to dive deeper still, taking on a smörgåsbord of problems offe
 
 ### 2. You want a job building the visual, front-end of websites
 
-If you are visually creative and not immediately interested in the way the whole wide world of computing works, I'd recommend starting here. This is the path a lot of coding boot camps will take you through, focusing on a specific set of skills for an in-demand job.
+<br>If you are visually creative and not immediately interested in the way the whole wide world of computing works, I'd recommend starting here. This is the path a lot of coding boot camps will take you through, focusing on a specific set of skills for an in-demand job.
 
   * Learn HTML and CSS. These are languages that each do only one thing: HTML situates text on a page by organizing it into a nested, hierarchical structure, and CSS tells a web browser how to build art and style around this structured text. Beneath every fancy modern website is HTML and CSS, so for a web developer, they're a good place to start.
 
