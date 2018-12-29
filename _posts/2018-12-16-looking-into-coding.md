@@ -16,9 +16,8 @@ Broadly I have different recommendations based on the path you want to take into
 If you want to go deep, learning about what makes software of all kinds work, I'd recommend starting out the way computer science students start out at a lot of universities:
   * learn a multi-purpose language: read some books, work through a tutorial or two
   * then find some problems you want to solve and start applying your skills
-    
-    
-For this, the language Python is pretty great. At present, universities from MIT to my alma mater Portland State University start their intro CS curriculum with Python. Python is a good language to learn in because its syntax is more intuitive than a lot of other languages and it abstracts away a lot of the details that other languages require you to keep track of. Also, it's used all over the place in industry, [consistently placing](https://www.tiobe.com/tiobe-index/) in the top three most widely used programming languages in the world.
+
+<br>For this, the language Python is pretty great. At present, universities from MIT to my alma mater Portland State University start their intro CS curriculum with Python. Python is a good language to learn in because its syntax is more intuitive than a lot of other languages and it abstracts away a lot of the details that other languages require you to keep track of. Also, it's used all over the place in industry, [consistently placing](https://www.tiobe.com/tiobe-index/) in the top three most widely used programming languages in the world.
 
 To start here, you could check out these [Udemy tutorials](https://www.udemy.com/topic/python/).
 And for a manual, I've read and taught with Bill Lubanovic's [*Introducing Python*](http://shop.oreilly.com/product/0636920028659.do), and I like it a lot. It includes some good suggested exercises to try out as well.
