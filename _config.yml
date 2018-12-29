@@ -15,6 +15,7 @@ float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/landing_page_1.png"
+cover_footer: "/assets/images/landing_page_0.png"
 
 name: 'Sascha Strand'
 author: 'Sascha Strand'
