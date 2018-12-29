@@ -8,9 +8,9 @@ permalink: /about/
 
 I'm Sascha Strand.
 
-I help organize, access, and transmit information. I am some combination of a librarian and plumber, and I love my work. 
+I help organize, access, and transmit information. I am some digital combination of a librarian and plumber, and I love my work. 
 
-After starting in the field as an ETL developer in 2013, I went back to school for my masters in computer science where I've studied concurrent and distributed systems.
+After starting in the field in 2013 as an ETL developer, I went back to school for my masters in computer science in 2016 where I've studied concurrent and distributed systems.
 
 This website is a personal blog about the topics in software I've found exciting and how I've charted a path through them.
 
