@@ -20,3 +20,6 @@
 * The Java Async Classes
 * Concurrent Functional Projects
 * Work at Portland State
+* Libuv and nodejs
+* Haskell curriculum
+* Python curriculum
