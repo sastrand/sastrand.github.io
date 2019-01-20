@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Ousterhout's 'Why Threads are a Bad Idea (for most purposes)'"
+title:  "Ousterhout's, Why Threads are a Bad Idea (for most purposes)"
 date:   2019-01-19 12:00:00
 categories: paper_response
 tags: featured
-image: /assets/article_images/wizard.jpg
+image: /assets/article_images/wizard.jpeg
 ---
 
 A reminder from John Ousterhout that programming with threads is hard. Event loops, comparatively, are pretty easy. And we can solve a lot of problems with event loops.
