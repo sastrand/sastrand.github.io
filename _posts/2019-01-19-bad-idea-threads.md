@@ -15,7 +15,7 @@ This is part of a series of responses I'm writing on classical papers in concurr
 
 ## Talk Summary
 
-Basic claim: Compared to concurrency through call-backs, threads are for wizards. (His term.) 
+<br>Basic claim: Compared to concurrency through call-backs, threads are for wizards. (His term.) 
 
 * If only one CPU is available, the event-based model still takes advantage of asynchronous I/O, and using threads to take advantage of asynchronous I/O on a single CPU is kind of a hack.
 * In situations where each I/O mechanism has a short-lived handler, events are a simple, reliable solution. For threads, regardless of how short or similarly timed handlers are within an application or system, synchronization requires the same amount of work.
