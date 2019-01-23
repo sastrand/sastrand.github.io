@@ -23,3 +23,10 @@
 * Libuv and nodejs
 * Haskell curriculum
 * Python curriculum
+
+### Stream of consciousness to do topics
+
+* How Javascript uses `libuv` 
+* The guaratneed complexity of dynamically allocated lists.
+* Does the JVM cause thread starvation
+* Adding a bunch of fences into Lamport's Bakery Algorithm and timing it compared to spin locks, functional parallelism
