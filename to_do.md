@@ -29,4 +29,6 @@
 * How Javascript uses `libuv` 
 * The guaratneed complexity of dynamically allocated lists.
 * Does the JVM cause thread starvation
-* Adding a bunch of fences into Lamport's Bakery Algorithm and timing it compared to spin locks, functional parallelism
+* Adding a bunch of fences into Lamport's Bakery Algorithm and timing it 
+  compared to spin locks, functional parallelism
+* Some examples--cheat sheet--for using `grep` and `awk`.
