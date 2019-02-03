@@ -23,6 +23,8 @@
 * Libuv and nodejs
 * Haskell curriculum
 * Python curriculum
+* Proving functions equivalent with the Coq `extensionality` tactic
+* Compiling Linux from scratch
 
 ### Stream of consciousness to do topics
 
@@ -32,3 +34,8 @@
 * Adding a bunch of fences into Lamport's Bakery Algorithm and timing it 
   compared to spin locks, functional parallelism
 * Some examples--cheat sheet--for using `grep` and `awk`.
+
+### More math to do topics
+
+* MIT's linear algebra MOOC
+* What it's going to take to get good at stats
