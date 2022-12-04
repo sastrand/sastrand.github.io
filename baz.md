@@ -1,6 +1,6 @@
 ---
 layout: blank
-permalink: /bar
+permalink: /baz
 ---
 
 ```
