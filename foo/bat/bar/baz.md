@@ -1,6 +1,6 @@
 ---
 layout: blank
-permalink: /baz
+permalink: /foo/bat/bar/baz
 ---
 
 ```
