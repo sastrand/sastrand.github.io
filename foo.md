@@ -1,6 +1,5 @@
 ---
 layout: blank
-title: About
 permalink: /foo
 ---
 
