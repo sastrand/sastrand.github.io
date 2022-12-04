@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blank
 permalink: /santabot/foo/42
 ---
 
