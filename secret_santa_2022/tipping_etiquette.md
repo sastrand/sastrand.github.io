@@ -19,6 +19,7 @@ From [Emily Post's Etiquette](https://www.amazon.com/Emily-Posts-Etiquette-19th-
 | Tipping jars             | No obligation; tip occasionally if your server or barista provides a little something extra or if you are a regular customer.                                                    |
 | Restroom Attendant       | $0.50-$3, depending on the level of service                                                                                                                                      |
 | Valet                    | $2-$5. Tip when the car is returned to you.                                                                                                                                      |
+
 ### Travel
 
 | Service                  | Appropriate Tip                                                                                                                                                                  |
